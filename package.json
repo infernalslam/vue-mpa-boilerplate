@@ -12,7 +12,7 @@
     "debug": "~2.6.3",
     "dotenv": "^8.0.0",
     "ejs": "2.5.7",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "express-dynamic-helpers-patch": "0.0.2",
     "express-nunjucks": "^2.2.3",
     "jade": "~1.11.0",
